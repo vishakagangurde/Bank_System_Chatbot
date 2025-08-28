@@ -1,0 +1,27 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+google-generativeai
+pandas
+numpy
+faiss-cpu
+python-multipart
+flask
+flask-cors
+python-dotenv
+numpy
+pandas
+faiss-cpu
+google-generativeai
+tenacity
+scikit-learn
+
+# LLM and Vector DB Related Packages
+huggingface-hub
+transformers
+sentence-transformers
+datasets
+accelerate
+
+=
